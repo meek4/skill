@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: ''
+labels: '重要但不紧急'
 assignees: ''
 
 ---
